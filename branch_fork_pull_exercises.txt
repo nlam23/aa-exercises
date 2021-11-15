@@ -6,8 +6,8 @@ Your task by the end of our exercise is to make a pull request on the exit-ticke
 Add your link to the branch in one of the spaces below.
 
 //*******************************************************************//
-Name:
-Link:
+Name: Vanessa
+Link: https://github.com/nlam23/aa-exercises/blob/1a6453883d8d23690c6a1ce904c3ae96bdf15227/branch_fork_pull_exercises.txt
 //*******************************************************************//
 
 //*******************************************************************//
